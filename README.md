@@ -19,18 +19,30 @@ Feel free to navigate through the repository's folders and explore the different
    git clone https://github.com/your-username/typescript-playground.git
    ```
 2. **Navigate to the project directory:**
-   ```cd typescript-playground```
+   
+   ```
+   cd typescript-playground
+   ```
 
-3. **Install TypeScript globally (if not already installed):**
-   ```npm install -g typescript```
+4. **Install TypeScript globally (if not already installed):**
 
-4. **Compile TypeScript files:**
+   ```
+   npm install -g typescript
+   ```
+
+6. **Compile TypeScript files:**
    
    Use the following command to compile TypeScript files in the project to the "app" directory:
-   ```tsc```
 
-5. **Run your compiled files:**
+   ```
+   tsc
+   ```
+
+8. **Run your compiled files:**
    After compilation, you can run the generated JavaScript files using Node.js. For example:
-   ```node app/filename.js```
+
+   ```
+   node app/filename.js
+   ```
 
 
